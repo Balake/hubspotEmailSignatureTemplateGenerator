@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/hubspotEmailSignatureTemplateGenerator/static/css/main.073c9b0a.css",
-    "main.js": "/hubspotEmailSignatureTemplateGenerator/static/js/main.0886cccb.js",
+    "main.js": "/hubspotEmailSignatureTemplateGenerator/static/js/main.c391c47d.js",
     "static/js/787.e9f7eb3c.chunk.js": "/hubspotEmailSignatureTemplateGenerator/static/js/787.e9f7eb3c.chunk.js",
-    "static/media/logo.svg": "/hubspotEmailSignatureTemplateGenerator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hubspotEmailSignatureTemplateGenerator/index.html",
     "main.073c9b0a.css.map": "/hubspotEmailSignatureTemplateGenerator/static/css/main.073c9b0a.css.map",
-    "main.0886cccb.js.map": "/hubspotEmailSignatureTemplateGenerator/static/js/main.0886cccb.js.map",
+    "main.c391c47d.js.map": "/hubspotEmailSignatureTemplateGenerator/static/js/main.c391c47d.js.map",
     "787.e9f7eb3c.chunk.js.map": "/hubspotEmailSignatureTemplateGenerator/static/js/787.e9f7eb3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0886cccb.js"
+    "static/js/main.c391c47d.js"
   ]
 }
